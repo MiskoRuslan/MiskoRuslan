@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Ruslan
-🐍Python developer and data analyst from Ukraine <br/>
+🐍Python developer from Ukraine <br/>
 🎓 Student of [computer engineering](https://fcst.nau.edu.ua/) at the National Aviation University</br>
 🎓A graduate of the [Mate Academy](https://mate.academy/en)</br>
 
