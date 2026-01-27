@@ -3,7 +3,6 @@
 🎓 Master's student in Software Engineering at State University of Trade and Economics<br/>
 🎓 Graduate of Computer Engineering at [National Aviation University](https://fcst.nau.edu.ua/)<br/>
 🎓 Graduate of [Mate Academy](https://mate.academy/en) Python Developer program<br/>
-💼 Currently working as Python Developer with AI at InsAIder<br/>
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
